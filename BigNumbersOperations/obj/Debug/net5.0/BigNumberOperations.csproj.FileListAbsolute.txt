@@ -1,0 +1,12 @@
+D:\Programms\Labs 4 semester\Cryptography\BigNumbersOperations\BigNumbersOperations\bin\Debug\net5.0\BigNumberOperations.deps.json
+D:\Programms\Labs 4 semester\Cryptography\BigNumbersOperations\BigNumbersOperations\bin\Debug\net5.0\BigNumberOperations.dll
+D:\Programms\Labs 4 semester\Cryptography\BigNumbersOperations\BigNumbersOperations\bin\Debug\net5.0\ref\BigNumberOperations.dll
+D:\Programms\Labs 4 semester\Cryptography\BigNumbersOperations\BigNumbersOperations\bin\Debug\net5.0\BigNumberOperations.pdb
+D:\Programms\Labs 4 semester\Cryptography\BigNumbersOperations\BigNumbersOperations\obj\Debug\net5.0\BigNumberOperations.csprojAssemblyReference.cache
+D:\Programms\Labs 4 semester\Cryptography\BigNumbersOperations\BigNumbersOperations\obj\Debug\net5.0\BigNumberOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programms\Labs 4 semester\Cryptography\BigNumbersOperations\BigNumbersOperations\obj\Debug\net5.0\BigNumberOperations.AssemblyInfoInputs.cache
+D:\Programms\Labs 4 semester\Cryptography\BigNumbersOperations\BigNumbersOperations\obj\Debug\net5.0\BigNumberOperations.AssemblyInfo.cs
+D:\Programms\Labs 4 semester\Cryptography\BigNumbersOperations\BigNumbersOperations\obj\Debug\net5.0\BigNumberOperations.csproj.CoreCompileInputs.cache
+D:\Programms\Labs 4 semester\Cryptography\BigNumbersOperations\BigNumbersOperations\obj\Debug\net5.0\BigNumberOperations.dll
+D:\Programms\Labs 4 semester\Cryptography\BigNumbersOperations\BigNumbersOperations\obj\Debug\net5.0\ref\BigNumberOperations.dll
+D:\Programms\Labs 4 semester\Cryptography\BigNumbersOperations\BigNumbersOperations\obj\Debug\net5.0\BigNumberOperations.pdb
