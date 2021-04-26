@@ -1,9 +1,0 @@
-D:\Programms\Labs 4 semester\Cryptography\BigNumbersOperations\BigNumbersOperations\bin\Debug\netcoreapp3.1\BigNumber.deps.json
-D:\Programms\Labs 4 semester\Cryptography\BigNumbersOperations\BigNumbersOperations\bin\Debug\netcoreapp3.1\BigNumber.dll
-D:\Programms\Labs 4 semester\Cryptography\BigNumbersOperations\BigNumbersOperations\bin\Debug\netcoreapp3.1\BigNumber.pdb
-D:\Programms\Labs 4 semester\Cryptography\BigNumbersOperations\BigNumbersOperations\obj\Debug\netcoreapp3.1\BigNumber.csprojAssemblyReference.cache
-D:\Programms\Labs 4 semester\Cryptography\BigNumbersOperations\BigNumbersOperations\obj\Debug\netcoreapp3.1\BigNumber.AssemblyInfoInputs.cache
-D:\Programms\Labs 4 semester\Cryptography\BigNumbersOperations\BigNumbersOperations\obj\Debug\netcoreapp3.1\BigNumber.AssemblyInfo.cs
-D:\Programms\Labs 4 semester\Cryptography\BigNumbersOperations\BigNumbersOperations\obj\Debug\netcoreapp3.1\BigNumber.csproj.CoreCompileInputs.cache
-D:\Programms\Labs 4 semester\Cryptography\BigNumbersOperations\BigNumbersOperations\obj\Debug\netcoreapp3.1\BigNumber.dll
-D:\Programms\Labs 4 semester\Cryptography\BigNumbersOperations\BigNumbersOperations\obj\Debug\netcoreapp3.1\BigNumber.pdb
